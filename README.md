@@ -1,0 +1,2 @@
+# Checking-server-status
+Minecraft.
